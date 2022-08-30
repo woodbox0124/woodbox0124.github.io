@@ -10,7 +10,7 @@ pin: true
 # Hello World
 
 ```java
-   Sysytem.out.println("Hello World")
+   System.out.println("Hello World")
 ```
 
 
